@@ -202,10 +202,29 @@
 .footer {
   display: flex;
   justify-content: space-evenly;
-  background-color: gray;
+  background-color: black;
   color: white;
 }
 .footer li {
   list-style: none;
   margin: 1vw;
+}
+.footer .logo img {
+  margin: 0.5vw;
+}
+.footer .social h6 {
+  margin-left: 1vw;
+  font-weight: bold;
+  font-size: 1vw;
+}
+
+.footer .info h6 {
+  margin-left: 1vw;
+  font-weight: bold;
+  font-size: 1vw;
+}
+.footer .cont h6 {
+  margin-left: 1vw;
+  font-weight: bold;
+  font-size: 1vw;
 }
