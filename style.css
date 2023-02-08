@@ -1,0 +1,211 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin-left: 10%;
+  align-items: center;
+}
+
+.A {
+  display: flex;
+}
+
+.A li {
+  list-style: none;
+  margin: 1vw;
+}
+
+.header h6 {
+  font-size: 0.8vw;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 0%;
+}
+.main .heading {
+  width:  80%;
+  margin-left: 10%;
+}
+.main .heading p {
+  font-size: 2vw;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: gray;
+  margin-bottom: 0%;
+}
+.main .heading h1 {
+  font-size: 2vw;
+  margin-top: 0%;
+}
+
+
+
+.towns {
+  width: 80%;
+  margin-left: 10%;
+  display: flex;
+  justify-content: space-between;
+}
+.towns1 {
+  width: 80%;
+  margin-left: 10%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2vw;
+}
+.towns img {
+  width: 15vw;
+}
+.towns1 img {
+  width: 15vw;
+}
+
+
+
+
+.exp {
+  display: flex;
+  margin-top: 7vw;
+  margin-left: 17vw;
+  width: 80%;
+}
+.exp .expC {
+  margin-left: 5vw;
+}
+.expB {
+  margin-top: 1vw;
+}
+.expC {
+  margin-top: 3vw;
+}
+.expD {
+  margin-left: 5vw;
+  margin-top: 7vw;
+}
+.expD p {
+  font-size: 1vw;
+}
+.expD button {
+  padding: 1vw 3vw 1vw;
+  font-size: 1vw;
+  background-color: cornsilk;
+  color: black;
+  border: none;
+}
+
+
+
+
+.secmain {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 10vw;
+  width: 100%;
+}
+.point1 {
+  display: flex;
+}
+.point1 img {
+  width: 25%;
+  height: 80%;
+}
+.point2 img {
+  width: 25%;
+  height: 80%;
+}
+.point2 {
+  display: flex;
+}
+.point1 p {
+  font-size: 2vw;
+  margin-left: 4vw;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif\;
+}
+.point2 p {
+  font-size: 2vw;
+  margin-left: 4vw;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif\;
+}
+
+
+
+
+.thirdmain {
+  width: 80%;
+  margin-left: 10%;
+}
+.thirdmain p{
+  font-size: 5vw;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: gray;
+}
+
+
+
+
+.fourthmain {
+  width: 80%;
+  margin-left: 10%;
+  display: flex;
+}
+.fourthmain .form {
+  width: 50vw;
+}
+.fourthmain .form input {
+  width: 30vw;
+  margin: 1vw;
+  padding: 0.5vw;
+}
+.fourthmain .form textarea {
+  width: 30vw;
+  margin: 1vw;
+  padding: 0.5vw;
+  height: 3.6vw;
+}
+.fourthmain .form .checkbox .check{
+  width: 1vw;
+}
+.fourthmain .form .checkbox {
+  display: flex;
+}
+.fourthmain .form button {
+  margin-left: 1vw;
+  padding: 1vw 3vw 1vw;
+  font-size: 1vw;
+  background-color: black;
+  color: white;
+  border: none;
+}
+.fourthmain .thirdimg img {
+  height: 22vw;
+}
+
+
+.page {
+  display: flex;
+  margin-top: 5vw;
+  margin-left: 10%;
+  width: 80%;
+  align-items: center;
+}
+.page button {
+  margin-right: 1vw;
+  padding: 1vw;
+  font-size: 1vw;
+}
+.page p {
+  margin-right: 1vw;
+  font-size: 2vw;
+}
+
+
+
+
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: gray;
+  color: white;
+}
+.footer li {
+  list-style: none;
+  margin: 1vw;
+}
